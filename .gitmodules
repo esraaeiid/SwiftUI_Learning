@@ -1,0 +1,3 @@
+[submodule "Hike"]
+	path = Hike
+	url = https://github.com/esraaeiid/Hike.git
